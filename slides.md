@@ -166,7 +166,7 @@ Part of what makes this ecosystem so powerful is the fact that information flows
 
 ---
 
-### In many cases, two \\( \Gamma \\) make a \\( \Pi \\)
+### In many cases, two $\Gamma$ make a $\Pi$
 
 Close collaboration between a domain expert who knows some computing and a data
 scientist who knows something about the domain
