@@ -1,9 +1,8 @@
 class: center, middle
 
 ## **Doing Data Science **
-## **(for Social Good)**
-
-### **in academia**
+### **(for Social Good)**
+## **in academia**
 
 ### Ariel Rokem
 
@@ -46,7 +45,7 @@ On the other hand, the data-intensive future poses some tremendous challenges.
 
 --
 
-Data Science is about extracting actionable insights from large heterogeneous noisy data
+Extracting actionable insights from large heterogeneous noisy data
 
 ???
 
@@ -67,7 +66,7 @@ These data provide some amazing opportunities
 
 ---
 
-#### Doing Data Science in academia: the data deluge
+#### Data Science in academia: the data deluge
 
 --
 Across many different fields
@@ -93,26 +92,22 @@ What is unique at this time is that this data deluge is now affecting many more 
 
 ...
 
----
+--
 
-#### But also social sciences
+#### Including many fields in the social sciences
 
 ???
 One example are fields in the social sciences. Where some questions could once be answered by collecting responses in a survey, many researchers can now turn to large data-sets at the scale of entire societies.
-
---
-<image height="25%" src="images/cell-phone-poverty.jpg">
-
-Josh Blumenstock
-
-???
-For example, in this research from I-School researcher Josh Blumenstock and his group, high resoltion maps of poverty and wealth in an entire country (In this case, the central-African country Rwanda) can be generated based on cell-phone usage patterns
 
 ---
 
 ### Challenges for Data Science in academia
 
-Connecting research on data science methodology (Computer Science and Engineering, Statistics, Applied Math) with domain research questions.
+- Data science methodology: computer science, statistics, applied math, etc.
+
+--
+
+- Domain research questions: neuroscience, astrophysics, sociology, etc.
 
 --
 
@@ -166,18 +161,9 @@ Part of what makes this ecosystem so powerful is the fact that information flows
 
 ---
 
-### In many cases, two $\Gamma$ make a $\Pi$
-
-Close collaboration between a domain expert who knows some computing and a data
-scientist who knows something about the domain
-
---
-
 ### The challenge of novelty squared
 
-<a href="https://medium.com/@profjsb/novelty-squared-dd88857f662#.j9jtwaxe9">Josh Bloom</a>:
-
-"the challenge of finding work that may be simultaneously novel both to the domain scientist and to the core computation, statistical, and algorithmic scientist. "
+<a href="https://medium.com/@profjsb/novelty-squared-dd88857f662#.j9jtwaxe9">Josh Bloom</a>: "the challenge of finding work that may be simultaneously novel both to the domain scientist and to the core computation, statistical, and algorithmic scientist. "
 
 ???
 This kind of research poses a particular kind of challenge, because both sides of the collaboration have to be interested in it. This is what Josh Bloom, an astrophysicst from our collaborating institute at Berkeley has called "The challenge of novelty squared"
@@ -185,6 +171,109 @@ This kind of research poses a particular kind of challenge, because both sides o
 Living in the future has its downsides! This work will not produce a neuroscience paper in the immediate future. Instead, it might produce the systems that all neuroscientists will use in 5 years!
 
 So - while novelty squared is hard, it is also potentially transformative!
+
+--
+### In many cases, two $\Gamma$ make a $\Pi$
+
+---
+
+### Community-level data science
+
+A network of collaborations between domain experts and methods experts
+
+<image src="images/pis_and_gammas.png" height=300px>
+
+Brittany Fiore Gartland and Anissa Tanweer
+
+<small>
+<a href="http://escience.washington.edu/community-level-data-science-and-its-spheres-of-influence-beyond-novelty-squared/">"Community-level data science and its spheres of influence: beyond novelty squared"</a>
+</small>
+
+---
+
+### Expanding the network: DSSG
+
+Addresses two additional challenges:
+
+???
+
+Another form of our incubator projects is our Data Science for Social Good Program (or DSSG). This program addresses two major challenges.
+--
+
+How do we train data-scientists with a strong interest in social sciences?
+
+???
+The first is the education of data-scientists, especially in the social sciences, and fields that pertain to social good
+--
+
+How do we enable data-driven approaches in institutions devoted to social good?
+
+???
+The other is our ability to provide solutions to "real-world" problems outside the university.
+--
+#### Additional challenges:
+
+--
+- How do we sustain projects over the long run?
+
+--
+- How do we maintain continuity?
+
+---
+### From DSSG project to long-term engagement
+
+#### Summer 2015: Family homelessness: factors leading to permanent housing
+
+Family Trajectories through Programs
+
+<image height="35%" src="images/PierceTrajectories.png">
+
+---
+
+
+
+---
+
+
+### The future is already here
+
+--
+
+### ... it's just not very evenly distributed.
+                                              (William Gibson)
+
+???
+
+... the future is already here (click). It's just not very evenly distributed.
+
+---
+class: center
+layout: false
+
+### Stay in touch!
+
+<div style="position:absolute; left: 220px; top:100px;">
+  <img src="images/globe-xxl.png" width="100px;" style="background:none; border:none; box-shadow:none;">
+  <div style="position:absolute; left: 120px; top:40px;">http://arokem.org
+  </div>
+</div>
+<div style="position:absolute; left: 220px; top:220px;">
+  <img src="images/email-11-xxl.png" width="100px;" style="background:none; border:none; box-shadow:none;">
+  <div style="position:absolute; left: 120px; top:40px;">arokem@gmail.com
+  </div>
+</div>
+<div style="position:absolute; left: 220px; top:340px;">
+  <img src="images/twitter-xxl.png" width="100px;" style="background:none; border:none; box-shadow:none;">
+  <div style="position:absolute; left: 120px; top:40px;">@arokem
+  </div>
+</div>
+<div style="position:absolute; left: 220px; top:460px;">
+  <img src="images/github-6-xxl.png" width="100px;" style="background:none; border:none; box-shadow:none;">
+  <div style="position:absolute; left: 120px; top:40px;">github.com/arokem
+  </div>
+</div>
+
+
 
 ---
 
@@ -252,77 +341,3 @@ Instead, one way to restore the trust in the reproducibility of the work is to c
 
 ---
 ### Data Science for Social Good
-
-Addresses two additional challenges:
-
-???
-
-Another form of our incubator projects is our Data Science for Social Good Program (or DSSG). This program addresses two major challenges.
---
-
-How do we provide training for data-scientists interested in social good?
-
-???
-The first is the education of data-scientists, especially in the social sciences, and fields that pertain to social good
---
-
-How do we enable data-driven approaches in institutions devoted to social good?
-
-???
-The other is our ability to provide solutions to "real-world" problems outside the university.
-
----
-
-### The future is already here
-
---
-
-### ... it's just not very evenly distributed.
-                                              (William Gibson)
-
-???
-
-... the future is already here (click). It's just not very evenly distributed.
-
---
-
-  - Catalyzing collaborations
-
---
-
-  - Building and maintaining the tools
-
---
-
-  - Sustaining career paths in data-intensive research
-
---
-
-  - Training data-savvy researchers
-
----
-class: center
-layout: false
-
-### Stay in touch!
-
-<div style="position:absolute; left: 220px; top:100px;">
-  <img src="images/globe-xxl.png" width="100px;" style="background:none; border:none; box-shadow:none;">
-  <div style="position:absolute; left: 120px; top:40px;">http://arokem.org
-  </div>
-</div>
-<div style="position:absolute; left: 220px; top:220px;">
-  <img src="images/email-11-xxl.png" width="100px;" style="background:none; border:none; box-shadow:none;">
-  <div style="position:absolute; left: 120px; top:40px;">arokem@gmail.com
-  </div>
-</div>
-<div style="position:absolute; left: 220px; top:340px;">
-  <img src="images/twitter-xxl.png" width="100px;" style="background:none; border:none; box-shadow:none;">
-  <div style="position:absolute; left: 120px; top:40px;">@arokem
-  </div>
-</div>
-<div style="position:absolute; left: 220px; top:460px;">
-  <img src="images/github-6-xxl.png" width="100px;" style="background:none; border:none; box-shadow:none;">
-  <div style="position:absolute; left: 120px; top:40px;">github.com/arokem
-  </div>
-</div>
