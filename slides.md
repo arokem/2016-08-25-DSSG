@@ -1,8 +1,8 @@
 class: center, middle
 
-## **Doing Data Science **
-### **(for Social Good)**
-## **in academia**
+### **Doing Data Science **
+## **(for Social Good)**
+### **in academia**
 
 ### Ariel Rokem
 
@@ -27,29 +27,10 @@ layout: true
 <div style="position: absolute; left: 650px; top: 370px;">
 <image src="images/escience-network.png" width=500px style="opacity:0.4;filter:alpha(opacity=40);"> </div>
 
+
 ---
 
-### Doing Data Science
-
-???
-
-What does it mean to do data science in the university?
-
-In more and more research, future advances depend on our ability to record,
-process, analyze, and understand large, heterogeneous, noisy data. On the one
-hand, these are exciting times, in which we look forward to a near future in
-which data will be able to address many important societal challenges.
-
-
-On the other hand, the data-intensive future poses some tremendous challenges.
-
---
-
-Extracting actionable insights from large heterogeneous noisy data
-
-???
-
-In this presentation, I will tell you aout the eScience Institute, and I will tell you how we are working at the eScience Institute to future-proof data-intensive discovery, by developing the role of data science at the University, and beyond.
+<image height="70%" src="images/UW-DSSG-venn-diagram.png">
 
 ---
 
@@ -57,47 +38,18 @@ In this presentation, I will tell you aout the eScience Institute, and I will te
 
 Neuroscience is data-intensive!
 
-<video id="mri-zstack" preload="auto" width="85%" height="auto" data-setup="{}" autoplay loop ><source src="./videos/mri-zstack.mov"/></video>
+<video id="mri-zstack" preload="auto" width="75%" height="auto" data-setup="{}" autoplay loop ><source src="./videos/mri-zstack.mov"/></video>
 
 ???
 Neuroimaging data, here showing a human brain scanned with an MRI machine at millimeter resolution, can provide detailed information about the structure and function of an individual human brain.
 
-These data provide some amazing opportunities
-
----
-
-#### Data Science in academia: the data deluge
-
---
-Across many different fields
-
-???
-
-This data deluge is not unique to neuroscience
 --
 
-Astronomy
-
-???
-Other fields, like astronomy...
---
-
-Genetics
-
-???
-...and genetics, have been dealing with large data sets for many years.
-
-What is unique at this time is that this data deluge is now affecting many more fields, some of whom have never been
---
-
-...
+The data deluge provides tremendous opportunities
 
 --
 
-#### Including many fields in the social sciences
-
-???
-One example are fields in the social sciences. Where some questions could once be answered by collecting responses in a survey, many researchers can now turn to large data-sets at the scale of entire societies.
+But there are also challenges
 
 ---
 
@@ -123,26 +75,6 @@ A major part of the work that we do is to develop tools and software that will b
 
 #### Open-source science: the scientific Python eco-system
 
-<image src="images/python-ecosystem1.png" height=500px>
-
-???
-
-We all rely on the Python language itself
----
-
-#### Open-source science: the scientific Python eco-system
-
-<image src="images/python-ecosystem2.png" height=500px>
-
-???
-
-Over the years, people have developed excellent tools in Python to support basic computational tasks that are common across many fields. For example, a library called numpy supports numerical operations on multi-dimensional arrays of data, such as those in image data.
-
-Another library called scipy supports a wide range of computations, signal processing, statistics, optimization, and so forth.
----
-
-#### Open-source science: the scientific Python eco-system
-
 <image src="images/python-ecosystem3.png" height=500px>
 
 ???
@@ -155,49 +87,47 @@ On top of these basic tools, others have built tools that support a variety of d
 <image src="images/python-ecosystem4.png" height=500px>
 
 ???
-Finally, researchers in various domains
 
 Part of what makes this ecosystem so powerful is the fact that information flows in both directions: researchers at the edges, in various domains rely on the central projects, such as numpy and scipy, but they also contribute back to the development of these projects, allowing everyone to enjoy the network effect of an open and collaborative development community.
 
 ---
 
-### The challenge of novelty squared
+###  
+###   
+<p>
 
-<a href="https://medium.com/@profjsb/novelty-squared-dd88857f662#.j9jtwaxe9">Josh Bloom</a>: "the challenge of finding work that may be simultaneously novel both to the domain scientist and to the core computation, statistical, and algorithmic scientist. "
 
-???
-This kind of research poses a particular kind of challenge, because both sides of the collaboration have to be interested in it. This is what Josh Bloom, an astrophysicst from our collaborating institute at Berkeley has called "The challenge of novelty squared"
 
-Living in the future has its downsides! This work will not produce a neuroscience paper in the immediate future. Instead, it might produce the systems that all neuroscientists will use in 5 years!
+</p>
+<image src="images/DSE-and-sponsors.png" height=200px>
 
-So - while novelty squared is hard, it is also potentially transformative!
+#### <a href="http://msdse.org/">Moore-Sloan Data Science Environments</a>
 
 --
-### In many cases, two $\Gamma$ make a $\Pi$
+
+#### Roles for data scientists at the universities
+
+--
+
+#### Plug the <a href="https://jakevdp.github.io/blog/2013/10/26/big-data-brain-drain/">"big data brain drain"</a> to industry
 
 ---
 
-### Community-level data science
-
-A network of collaborations between domain experts and methods experts
-
-<image src="images/pis_and_gammas.png" height=300px>
-
-Brittany Fiore Gartland and Anissa Tanweer
-
-<small>
-<a href="http://escience.washington.edu/community-level-data-science-and-its-spheres-of-influence-beyond-novelty-squared/">"Community-level data science and its spheres of influence: beyond novelty squared"</a>
-</small>
+<image height="70%" src="images/UW-DSSG-venn-diagram.png">
 
 ---
 
-### Expanding the network: DSSG
+### Data Science for Social Good
 
-Addresses two additional challenges:
+Addresses challenges:
 
 ???
 
 Another form of our incubator projects is our Data Science for Social Good Program (or DSSG). This program addresses two major challenges.
+--
+
+The data deluge is having a transformative effect on the social sciences
+
 --
 
 How do we train data-scientists with a strong interest in social sciences?
@@ -211,46 +141,96 @@ How do we enable data-driven approaches in institutions devoted to social good?
 ???
 The other is our ability to provide solutions to "real-world" problems outside the university.
 --
-#### Additional challenges:
 
---
-- How do we sustain projects over the long run?
-
---
-- How do we maintain continuity?
-
----
-### From DSSG project to long-term engagement
-
-#### Summer 2015: Family homelessness: factors leading to permanent housing
-
-Family Trajectories through Programs
-
-<image height="35%" src="images/PierceTrajectories.png">
-
----
-
-
-
----
-
-
-### The future is already here
+#### But also creates additional challenges:
 
 --
 
-### ... it's just not very evenly distributed.
-                                              (William Gibson)
+- How do we select fellows?
 
-???
+--
 
-... the future is already here (click). It's just not very evenly distributed.
+- How do we elicit and develop compelling projects?
+
+--
+
+- How do we provide technical mentorship?
+
+--
+
+- How do we sustain and maintain the projects we build?
 
 ---
+
+#### eScience Data Scientists serve as technical mentors
+
+--
+
+- Help evaluate fellows and projects for selection
+
+--
+
+- Teach the initial "boot-camp" workshops
+
+--
+
+- Provide guidance on technologies and methodologies
+
+--
+
+- Provide day-to-day guidance on workflow and project management
+
+---
+
+#### Data scientists help maintain projects long-term
+
+Family homelessness: factors leading to permanent housing (Summer 2015)
+
+<image height="40%" src="images/PierceTrajectories.png">
+
+<small>
+Bill & Melinda Gates Foundation: Neil Roche and Anjana Sundaram
+
+DSSG Fellows: Fabliha Ibnat, Jason Portenoy, Chris Suberlak, Joan Wang
+</small>
+---
+
+### Continuing the work
+
+--
+
+Data scientists: Bryna Hazelton, Ariel Rokem
+
+--
+
+Graduate students: Kivan Polimis, Kathleen Moore
+
+--
+
+- Build and maintain a set of software tools for ETL of HMIS data from Puget Sound counties
+
+--
+
+- And for applications of machine learning to these data:
+
+  https://scikit-learn-contrib.github.io/forest-confidence-interval
+
+--
+
+- Bring the data and software back to stakeholders in the counties
+
+--
+
+- Develop future summer DSSG projects
+
+---
+
+<image height="70%" src="images/UW-DSSG-venn-diagram.png">
+
+---
+
 class: center
 layout: false
-
-### Stay in touch!
 
 <div style="position:absolute; left: 220px; top:100px;">
   <img src="images/globe-xxl.png" width="100px;" style="background:none; border:none; box-shadow:none;">
@@ -339,5 +319,36 @@ As I mentioned before, one of the challenges for DS is that as the data and comp
 
 Instead, one way to restore the trust in the reproducibility of the work is to conduct our research in a manner that is transparent and open.
 
+
 ---
-### Data Science for Social Good
+
+### The challenge of novelty squared
+
+<a href="https://medium.com/@profjsb/novelty-squared-dd88857f662#.j9jtwaxe9">Josh Bloom</a>: "the challenge of finding work that may be simultaneously novel both to the domain scientist and to the core computation, statistical, and algorithmic scientist. "
+
+???
+This kind of research poses a particular kind of challenge, because both sides of the collaboration have to be interested in it. This is what Josh Bloom, an astrophysicst from our collaborating institute at Berkeley has called "The challenge of novelty squared"
+
+Living in the future has its downsides! This work will not produce a neuroscience paper in the immediate future. Instead, it might produce the systems that all neuroscientists will use in 5 years!
+
+So - while novelty squared is hard, it is also potentially transformative!
+
+--
+### In many cases, it takes two Γ-shaped researchers
+
+---
+
+### Community-level data science
+
+<small>
+Brittany Fiore Gartland and Anissa Tanweer
+
+<a href="http://escience.washington.edu/community-level-data-science-and-its-spheres-of-influence-beyond-novelty-squared/">"Community-level data science and its spheres of influence: beyond novelty squared"</a>
+</small>
+
+
+Daily practices across a network of practitioners
+
+<image src="images/pis_and_gammas.png" height=300px>
+
+---
