@@ -112,11 +112,6 @@ Part of what makes this ecosystem so powerful is the fact that information flows
 #### Plug the <a href="https://jakevdp.github.io/blog/2013/10/26/big-data-brain-drain/">"big data brain drain"</a> to industry
 
 ---
-
-<image height="70%" src="images/UW-DSSG-venn-diagram.png">
-
----
-
 ### Data Science for Social Good
 
 Addresses challenges:
@@ -222,10 +217,6 @@ Graduate students: Kivan Polimis, Kathleen Moore
 --
 
 - Develop future summer DSSG projects
-
----
-
-<image height="70%" src="images/UW-DSSG-venn-diagram.png">
 
 ---
 
